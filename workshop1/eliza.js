@@ -28,8 +28,8 @@
  */
 
 var rules = {
-  "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+  "~*x eliza ~*y": [
+    "That's me!"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
@@ -200,8 +200,8 @@ var rules = {
     "You are sure?",
     "I understand",
   ],
-  "~*x someone ~*y": [
-    "Can you be more specific?",
+  "~*x L&T ~*y": [
+    "so lit",
   ],
   "~*x everyone ~*y": [
     "Surely not everyone",
@@ -222,8 +222,8 @@ var rules = {
     "What do you think?",
     "What comes to your mind when you ask that?",
   ],
-  "~*x perhaps ~*y": [
-    "You do not seem quite certain",
+  "~*x Andrew Mossin ~*y": [
+    "He's sooooooooooooooooooo cool",
   ],
 };
 
